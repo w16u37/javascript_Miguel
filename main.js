@@ -17,11 +17,3 @@ switch (codi2) {
         codi2 = prompt("Intente nuevamente");   
         }
 }
-
-// while (codi2 != codi1) {
-//     alert("El código ingresado es incorrecto");
-//         codi2 = prompt("Intente nuevamente");
-    
-//     } if (codi2 === codi1) {
-//         alert("El código es correcto, Bienvenido");
-//     }
